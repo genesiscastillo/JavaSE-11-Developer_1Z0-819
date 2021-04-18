@@ -1,6 +1,9 @@
 # Java SE 11 Developer Exam Number: 1Z0-819
 
 - [Objetives](https://education.oracle.com/es/cat%C3%A1logo-de-productos-ouexam-pexam_1z0-819/pexam_1Z0-819)
+- [90 New Features and APIs in JDK 11 (Part 1)](https://dzone.com/articles/90-new-features-and-apis-in-jdk-11)
+- [90 New Features and APIs in JDK 11 (Part 2)](https://dzone.com/articles/90-new-features-and-apis-in-jdk-11-part-2)
+- [New Features in Java 11](https://www.baeldung.com/java-11-new-features)
 
 ## Working with Java data types
 
@@ -72,3 +75,5 @@
 ## Annotations
 
 - Create, apply, and process annotations
+
+
